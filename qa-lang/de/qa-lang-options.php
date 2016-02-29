@@ -189,7 +189,7 @@
 		'permit_experts' => 'Experts, Editors, Moderators, Admins',
 		'permit_moderators' => 'Moderators and Admins',
 		'permit_points' => 'Registrierte Benutzer mit genügent Punkten',
-		'permit_points_confirmed' => 'Registriert & E-Mail bestätigt & genügent Punkte',
+		'permit_points_confirmed' => 'Registrierte Benutzer mit bestätigter E-Mail und genügent Punkte',
 		'permit_see_emails' => 'Zeige Benutzer E-Mail Adressen:',
 		'permit_supers' => 'Super Administrators',
 		'permit_users' => 'Registrierte Benutzer',
