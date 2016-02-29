@@ -7,7 +7,7 @@
 	Description: Language phrases for admin center
 
 	Version: 1.7
-	Date: 2016-02-11
+	Date: 2016-02-29
 	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
@@ -227,12 +227,12 @@
 		'reset_options_button' => 'Reset to Defaults',
 		'reset_options_confirm' => 'Are you sure you want to reset all options on this page to their defaults?',
 		'resume_mailing_button' => 'Resume Mailing',
-		'save_options_button' => 'Save Options',
-		'save_recalc_button' => 'Save and Recalculate',
-		'save_view_button' => 'Save and View',
-		'send_test_button' => 'Send Test to Me',
-		'show_defaults_button' => 'Show Defaults',
-		'show_on_register_form' => 'Show field on user registration form',
+		'save_options_button' => 'Einstellungen speichern',
+		'save_recalc_button' => 'Speichern und neu berechnen',
+		'save_view_button' => 'Speichern und anzeigen',
+		'send_test_button' => 'Test zu mir senden',
+		'show_defaults_button' => 'Zeige Standardeinstellungen',
+		'show_on_register_form' => 'Zeige das Feld auf dem Benutzer Registrieren Formular',
 		'slug_bad_chars' => 'The slug may not contain these characters: ^',
 		'slug_reserved' => 'This slug is reserved for use by another page',
 		'spam_title' => 'Spam',
@@ -243,14 +243,14 @@
 		'tags' => 'Tags',
 		'tags_and_categories' => 'Tags und Kategorien',
 		'tags_not_shown' => 'Some questions have tags which will not be displayed.',
-		'test_sent_to_x' => 'The test message was sent to ^',
-		'title_already_used' => 'This value is already being used by another title',
+		'test_sent_to_x' => 'Die Testnachricht wurde zu ^ gesendet',
+		'title_already_used' => 'Dieser Eintrag wird schon von einem anderen Titel verwendet',
 		'top_level_categories' => 'Top level categories:',
 		'total_as' => 'Antworten gesamt:',
 		'total_cs' => 'Kommentare gesamt:',
 		'total_qs' => 'Fragen gesamt:',
 		'unnamed_plugin' => 'Unnamed Plugin',
-		'upgrade_db' => 'Your Question2Answer database needs to be ^1upgraded^2 for this version.',
+		'upgrade_db' => 'Deine Question2Answer Datenbank benötigt ein ^1Upgrade^2 für diese Version.',
 		'url_format_note' => 'Options with the ^ label are working for your site\'s configuration. For best search engine optimization (SEO), use the first ^ option available.',
 		'user_pages' => 'Benutzerseite',
 		'user_title' => 'Benutzer Titel - HTML erlaubt:',

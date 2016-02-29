@@ -7,7 +7,7 @@
 	Description: Language phrases for all options, as shown in admin center
 
 	Version: 1.7
-	Date: 2016-02-10
+	Date: 2016-02-29
 	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
